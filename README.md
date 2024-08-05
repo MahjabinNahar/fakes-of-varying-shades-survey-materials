@@ -7,10 +7,10 @@ The work is to support the [COLM 2024](https://colmweb.org/) paper ["Fakes of Va
 If you find this repo helpful to your research, please cite the paper:
 ```
 @inproceedings{,
-  title={},
-  author={},
-  booktitle={},
-  year={},
+  title={Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations},
+  author={Nahar, Mahjabin and Seo, Haeseung and Lee, Eun-Ju and Xiong, Aiping and Lee, Dongwon},
+  booktitle={Proceedings of the Conference on Language Modeling (Accepted)},
+  year={2024},
 }
 ```
 
